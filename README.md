@@ -4,7 +4,7 @@
 
 ## 🦸‍ Some stuff about me
 
-I'm 22 and I'm a french student in the [Claude Bernard University, Lyon](https://univ-lyon1.fr/). I like sport ⚽️ and travel 🌍.
+I'm 22 and I'm a french student in the [IMT Mines Alès](https://www.imt-mines-ales.fr/). I like sport 🏃🏻‍♂️ and travel 🌍.
 
 I really like to study science to understand how the world is working.
 
